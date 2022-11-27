@@ -1,8 +1,8 @@
-## RESTAURANTE HERBARIO
+# RESTAURANTE HERBARIO
 <p align="center">
-	<img width="460" height="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstylelovely.com%2Fgaleria%2Frestaurantes-vegetarianos%2F&psig=AOvVaw0PDlgh1S0BscITbxdXNyrV&ust=1669605353891000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCdpOKyzfsCFQAAAAAdAAAAABAT">
+	<img width="460" height="350" src="https://images.squarespace-cdn.com/content/v1/598b56ce1e5b6cbabca9322f/1522219738843-BLZ47WJC846EQYMHZCX7/justo+y+ceres+014.jpg">
 </p>
 
 ***
-##### Noviembre 25/2022
+##### 25 de Noviembre 2022
 ### Creado por: Carolina Salazar
